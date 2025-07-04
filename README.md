@@ -12,7 +12,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" alt="Python" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" alt="Pandas" /> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" alt="Scikit-Learn" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35" alt="TensorFlow" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="35" alt="Docker" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" alt="AWS" /> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35" alt="GCP" /> &nbsp;
