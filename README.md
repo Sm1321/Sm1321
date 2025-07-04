@@ -9,7 +9,7 @@
 <p align="left">
 ✨ Building smart solutions with AI, ML, and MLOps<br>
 📚 Currently learning: LangChain, LangGraph, AWS, and LLMOps ☁️<br>
-🎯 2025 Goal: Land a top-tier data science role with 2x career growth 🚀<br>
+🎯 2025 Goal: To do  Hands on projects with MLOPs,LLMOPS and Gen AI🚀<br>
 </p>
 
 ---
