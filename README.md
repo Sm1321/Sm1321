@@ -57,6 +57,13 @@ All of my work is available on:
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sm1321&theme=onedark&column=6&no-frame=true&no-bg=true" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=radical" width="48%" />
@@ -66,3 +73,23 @@ All of my work is available on:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm1321&theme=radical" width="60%" />
 </p>
+
+---
+
+### 🌍 Visitor Map
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sm1321/Sm1321/main/assets/world-map.gif" alt="World Visitor Map" width="80%" />
+  <br/>
+  <a href="https://github.com/Sm1321/Sm1321/blob/main/assets/world-map.gif">🗺️ Click to view full map</a>
+</p>
+
+---
+
+### 🎨 Custom Banner (Optional)
+<p align="center">
+  <img src="https://github.com/Sm1321/Sm1321/blob/main/assets/banner.png" alt="Custom Banner" width="100%" />
+</p>
+
+---
+
+> Feel free to ⭐️ any project you like! Let's build cool stuff together 🚀
