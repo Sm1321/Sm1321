@@ -1,87 +1,62 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Mohan</h1>
+<h3 align="center">A passionate Data Scientist & AI Enthusiast from India 🇮🇳</h3>
 
-<p align="left">I'm S Mohan — a passionate Data Scientist & AI Enthusiast from India 🇮🇳</p>
-
----
-
-<h2 align="left">🧠 About Me</h2>
-
-<p align="left">
-✨ Building smart solutions with AI, ML, and MLOps<br>
-📚 Currently learning: LangChain, LangGraph, AWS, and LLMOps ☁️<br>
-🎯 2025 Goal: To do hands-on projects with MLOps, LLMOps, and Gen AI 🚀<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sm1321&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-<h2 align="left">🛠️ I Code With</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</div>
+### 🔭 Currently
+- Working as a **Junior Data Scientist**
+- Learning **LangChain, LangGraph, and LLMOps**
+- Exploring **Gen AI & Applied ML Systems**
 
 ---
 
-<h2 align="left">📊 GitHub Overview</h2>
+### 💬 Ask Me About
+- Data Science & ML Pipelines
+- Gen AI & LLM-based Apps
+- MLOps / LLMOps & Deployment
 
+---
+
+### 📂 Projects
+All of my work is available on:  
+👉 [https://github.com/Sm1321](https://github.com/Sm1321)
+
+---
+
+### 📫 Contact Me
+- 📧 Email: siddulamohan1321@gmail.com  
+- 🔗 LinkedIn: [Mohan S](https://www.linkedin.com/in/mohan-s-805b72212)  
+- 🏆 Kaggle: [@siddulamohan](https://www.kaggle.com/siddulamohan)
+
+---
+
+### 🧰 Languages & Tools
 <p align="left">
-  <img src="https://metrics.lecoq.io/Sm1321?template=classic&base=header,activity,community&isocalendar=1&languages=1&achievements=1&achievements.threshold=C&config.timezone=Asia%2FKolkata" alt="S Mohan GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-Learn"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="GCP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
 </p>
 
 ---
 
-<h2 align="left">💡 More Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sm1321&layout=compact&theme=radical" height="180"/>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sm1321&layout=compact&theme=radical" width="48%" />
 </p>
 
----
-
-<h2 align="left">👀 Visitors</h2>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sm1321&label=Profile%20views&color=0e75b6&style=flat" alt="Sm1321" />
-</p>
-
----
-
-<h2 align="left">🌐 Connect with Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohan-s-805b72212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:siddulamohan1321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.kaggle.com/siddulamohan" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
-  </a>
-  <a href="https://github.com/Sm1321" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm1321&theme=radical" width="60%" />
 </p>
