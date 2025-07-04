@@ -8,7 +8,7 @@
 ---
 
 ### 🧰 Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" alt="Python" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35" alt="Pandas" /> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" alt="Scikit-Learn" /> &nbsp;
