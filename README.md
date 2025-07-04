@@ -8,9 +8,8 @@
 
 <p align="left">
 ✨ Building smart solutions with AI, ML, and MLOps<br>
-📚 Currently learning: LangChain,LangGraph AWS, and LLMOps ☁️<br>
+📚 Currently learning: LangChain, LangGraph, AWS, and LLMOps ☁️<br>
 🎯 2025 Goal: Land a top-tier data science role with 2x career growth 🚀<br>
-🎲 Fun fact: I debug with snacks 🍪 and deploy with confidence 😄
 </p>
 
 ---
@@ -27,6 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
