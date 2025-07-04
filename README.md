@@ -1,87 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Mohan</h1>
+<h3 align="center">Highly instrested in DataSciene and AI from India</h3>
 
-<p align="left">I'm S Mohan — a passionate Data Scientist & AI Enthusiast from India 🇮🇳</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sm1321&label=Profile%20views&color=0e75b6&style=flat" alt="sm1321" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sm1321" alt="sm1321" /></a> </p>
 
-<h2 align="left">🧠 About Me</h2>
+- 🔭 I’m currently working **Enmd**
 
+- 🌱 I’m currently learning **Langchain,Langraph and LLMOPS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Sm1321](https://github.com/Sm1321)
+
+- 💬 Ask me about **Datascience ,Gen AI**
+
+- 📫 How to reach me **siddulamohan1321@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-✨ Building smart solutions with AI, ML, and MLOps<br>
-📚 Currently learning: LangChain, LangGraph, AWS, and LLMOps ☁️<br>
-🎯 2025 Goal: To do hands-on projects with MLOps, LLMOps, and Gen AI 🚀<br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohan-s-805b72212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohan-s-805b72212/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/siddulamohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/siddulamohan" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h2 align="left">🛠️ I Code With</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm1321&show_icons=true&locale=en&layout=compact" alt="sm1321" /></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sm1321&show_icons=true&locale=en" alt="sm1321" /></p>
 
----
-
-<h2 align="left">📊 GitHub Overview</h2>
-
-<p align="left">
-  <img src="https://metrics.lecoq.io/Sm1321?template=classic&base=header,activity,community&isocalendar=1&languages=1&achievements=1&achievements.threshold=C&config.timezone=Asia%2FKolkata" alt="S Mohan GitHub Metrics" />
-</p>
-
----
-
-<h2 align="left">💡 More Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sm1321&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-<h2 align="left">👀 Visitors</h2>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sm1321&label=Profile%20views&color=0e75b6&style=flat" alt="Sm1321" />
-</p>
-
----
-
-<h2 align="left">🌐 Connect with Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohan-s-805b72212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:siddulamohan1321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.kaggle.com/siddulamohan" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
-  </a>
-  <a href="https://github.com/Sm1321" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm1321&" alt="sm1321" /></p>
