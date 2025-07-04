@@ -25,12 +25,12 @@
 ### 🔭 Currently
 - Working as a **Junior Data Scientist**
 - Learning **LangChain, LangGraph, and LLMOps**
-- Exploring **Gen AI & Applied ML Systems**
+- Exploring **Gen AI & Agenti AI**
 
 ---
 
 ### 💬 Ask Me About
-- Data Science & ML Pipelines  
+- Data Science   
 - Gen AI & LLM-based Apps  
 - MLOps / LLMOps & Deployment
 
