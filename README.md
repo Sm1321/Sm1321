@@ -9,7 +9,7 @@
 <p align="left">
 ✨ Building smart solutions with AI, ML, and MLOps<br>
 📚 Currently learning: LangChain, LangGraph, AWS, and LLMOps ☁️<br>
-🎯 2025 Goal: To do  Hands on projects with MLOPs,LLMOPS and Gen AI🚀<br>
+🎯 2025 Goal: To do hands-on projects with MLOps, LLMOps, and Gen AI 🚀<br>
 </p>
 
 ---
@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
