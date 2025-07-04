@@ -15,22 +15,22 @@
 ---
 
 ### 💬 Ask Me About
-- Data Science & ML Pipelines
-- Gen AI & LLM-based Apps
+- Data Science & ML Pipelines  
+- Gen AI & LLM-based Apps  
 - MLOps / LLMOps & Deployment
 
 ---
 
 ### 📂 Projects
 All of my work is available on:  
-👉 [https://github.com/Sm1321](https://github.com/Sm1321)
+👉 [github.com/Sm1321](https://github.com/Sm1321)
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: siddulamohan1321@gmail.com  
-- 🔗 LinkedIn: [Mohan S](https://www.linkedin.com/in/mohan-s-805b72212)  
-- 🏆 Kaggle: [@siddulamohan](https://www.kaggle.com/siddulamohan)
+### 📫 Let's Connect
+- 🔗 [LinkedIn: Mohan S](https://www.linkedin.com/in/mohan-s-805b72212)  
+- 🏆 [Kaggle: @siddulamohan](https://www.kaggle.com/siddulamohan)  
+- 📥 You can also reach me via LinkedIn DMs
 
 ---
 
