@@ -30,7 +30,7 @@
 ---
 
 ### 💬 Ask Me About
-- Data Science   
+- Data Science  
 - Gen AI & LLM-based Apps  
 - MLOps / LLMOps & Deployment
 
@@ -55,8 +55,16 @@ All of my work is available on:
 
 ---
 
-### 📊 GitHub Stats
+### 📈 2025 GitHub Contributions
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sm1321&year=2025&theme=radical" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/calendar?username=Sm1321&year=2025&theme=radical" />
+</p>
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=radical" width="60%" />
 </p>
