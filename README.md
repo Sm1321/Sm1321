@@ -53,16 +53,7 @@ All of my work is available on:
   </a>
 </p>
 
----
 
-### 📈 2025 GitHub Contributions
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sm1321&year=2025&theme=radical" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/calendar?username=Sm1321&year=2025&theme=radical" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
