@@ -24,7 +24,7 @@
 
 ### 🔭 Currently
 - Working as a **Junior Data Scientist**
-- Learning **LangChain, LangGraph, and LLMOps**
+- Learning **AgenticAI , and LLMOps**
 - Exploring **Gen AI & Agenti AI**
 
 ---
