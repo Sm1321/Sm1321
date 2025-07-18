@@ -73,9 +73,10 @@ All of my work is available on:
   <img src="https://streak-stats.demolab.com?user=Sm1321&theme=radical" width="60%" alt="GitHub Streak" />
 </p>
 
-< 
+<!---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm1321&theme=radical" width="60%" />
-</p> >
+</p> 
+-->
 
 
