@@ -37,8 +37,11 @@
 ---
 
 ### Credits and Thankyou 
-- 
-
+- A bigthanks to `KrishNaik` sir and his courses from udemy and for his  Youtube channel Content
+- very thankful to `Sunny Savita` for his Youtube channel Content
+- very thankful to `Nitish singh` for his campusx Youtube channel Content
+- I am following the blogs and udemy courses and doing diffrent courses related to AI and Generative AI and very thankful for the all the mentors
+- My code repos are mainly from the learning from the above mentioned people and few of other my own.
 ---
 
 ### 📂 Projects
