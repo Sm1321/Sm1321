@@ -25,7 +25,7 @@
 
 ### 🔭 Currently
 - Working as a **Junior Data Scientist**
-- Learning **AgenticAI and LLMOps**
+- Learning **AgenticAI and LLMOps and Rag's**
 - Exploring **Gen AI & Agenti AI**
 
 ---
