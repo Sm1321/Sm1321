@@ -33,7 +33,7 @@
 ### 💬 Ask Me About
 - Data Science  
 - Gen AI & LLM-based Apps  
-- LLMOps & Deployment
+- LLMOps & Deployment 
 ---
 
 ### Credits and Thankyou 
