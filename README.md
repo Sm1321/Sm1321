@@ -77,11 +77,11 @@ All of my work is available on:
 </p>
 
 
- 
+ <!---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm1321&theme=radical" width="60%" />
 </p> 
-<!--- -->
+ -->
 
 
 
