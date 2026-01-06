@@ -64,11 +64,14 @@ All of my work is available on:
 
 
 ### 📊 GitHub Stats
-### 📊 GitHub Overview
-![Repos](https://img.shields.io/badge/Repos-Public-blue)
-![Stars](https://img.shields.io/github/stars/Sm1321?style=flat)
-![Followers](https://img.shields.io/github/followers/Sm1321?style=flat)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=radical" width="60%" /> </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sm1321&layout=compact&theme=radical" width="35%" /> </p>
+
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Sm1321&theme=radical" width="60%" alt="GitHub Streak" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm1321&theme=radical" width="60%" /> </p>
 
 
 
