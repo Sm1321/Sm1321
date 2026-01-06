@@ -64,14 +64,8 @@ All of my work is available on:
 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=default&v=1)
 
-
- <!---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm1321&theme=radical" width="60%" />
-</p> 
- -->
 
 
 
