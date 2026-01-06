@@ -64,7 +64,6 @@ All of my work is available on:
 
 
 ### 📊 GitHub Stats
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=radical)
 
