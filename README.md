@@ -64,17 +64,13 @@ All of my work is available on:
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=radical" width="60%" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sm1321&layout=compact&theme=radical" width="35%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sm1321&theme=radical" width="60%" alt="GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sm1321&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sm1321&theme=radical)
 
 
  <!---
