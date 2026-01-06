@@ -64,7 +64,11 @@ All of my work is available on:
 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sm1321&show_icons=true&theme=default&v=1)
+### 📊 GitHub Overview
+![Repos](https://img.shields.io/badge/Repos-Public-blue)
+![Stars](https://img.shields.io/github/stars/Sm1321?style=flat)
+![Followers](https://img.shields.io/github/followers/Sm1321?style=flat)
+
 
 
 
