@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Sm1321&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 -->
-
 ### 🧰 Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" alt="Python" /> &nbsp;
